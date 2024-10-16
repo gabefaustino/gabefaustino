@@ -1,7 +1,7 @@
 ## Olá, você! Eu sou o Gabriel Faustino 👋
 ###  Sou um entusiasta de Cibersegurança e Desenvolvimento de Software
 
-## Tecnologias e Habilidades
+## Tecnologias e Habilidades 🧑🏻‍💻
 
 - **Linguagens de Programação:** Python, C
 - **Linguagens de Marcação:** HTML, CSS
@@ -9,7 +9,7 @@
 - **Segurança da Informação:** Hacker Ético, Práticas de Cibersegurança
 - **Ferramentas:** Git, GitHub, VSCode
 
-## Idiomas
+## Idiomas 📍
 - Inglês – Avançado
 - Italiano – Básico
 - Espanhol – Básico
@@ -25,7 +25,6 @@
 	<img align="center" alt="Gabe-Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
 	<img align="center" alt="Gabe-CSS"  height="40" width="50" src= "https://www.svgrepo.com/show/493162/hacker.svg">
 </div>
-<br>
 
 ## Contato
 <div>
