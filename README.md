@@ -6,7 +6,7 @@
 - **Linguagens de Programação:** Python, C
 - **Linguagens de Marcação:** HTML, CSS
 - **Sistemas Operacionais:** Linux, Windows
-- **Segurança da Informação:** Hacker Ético, Práticas de Cibersegurança
+- **Segurança da Informação:** Investigador Ético, Práticas de Cibersegurança
 - **Ferramentas:** Git, GitHub, VSCode
 
 ## Idiomas 📍
